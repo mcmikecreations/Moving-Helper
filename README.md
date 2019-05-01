@@ -1,5 +1,5 @@
 # Moving-Helper
-Gives you info on **when** to move houses.
+Gives you info on **when** to move houses. Made for BEST::HACKath0n 2019.
 
 ## APIs
 - **BruTile API** for map tile buffering and processing
