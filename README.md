@@ -14,7 +14,9 @@ Moving planer.
 
 ## Launching
 - Install **.NET Framework 4.6.1**
-- Run **HackathonMovingHelper.exe** from *HackathonMovingHelper.exe/bin/Release*
+- Launch the application
+  - Run **HackathonMovingHelper.exe** from *HackathonMovingHelper.exe/bin/Release/* or
+  - Unzip **HackathonMovingHelper.zip** from *HackathonMovingHelper.exe/bin/*
 
 ## Using
 - Enter old house address, click **Get Coordinates**
