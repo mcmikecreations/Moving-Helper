@@ -13,6 +13,7 @@ Gives you info on **when** to move houses. Made for BEST::HACKath0n 2019.
 Moving planer.
 
 ## Launching
+- Install Windows 7 or higher
 - Install **.NET Framework 4.6.1**
 - Launch the application
   - Run **HackathonMovingHelper.exe** from *HackathonMovingHelper.exe/bin/Release/* or
